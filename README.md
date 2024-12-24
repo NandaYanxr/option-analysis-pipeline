@@ -1,10 +1,6 @@
-# For_PrismFP
 
-#coding_test_of_option
 
-Hi Anas,
-
-Please see and run main_py file for my code and result.
+#coding_of_option
 
 Where I assume input in format:
 
@@ -29,10 +25,4 @@ Output is a pd format table:
       -"N/A" means some instrument_id doesn't have the specific target_fields record during target_period
       
 
-If any promblems,don't hesitate to let me know! 
 
-Thank you and looking forward to future process.
-
-Best,
-
-Xinru Yan
